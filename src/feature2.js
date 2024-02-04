@@ -1,1 +1,1 @@
-console('')
+let height = 0;
