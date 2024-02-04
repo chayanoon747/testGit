@@ -1,1 +1,1 @@
-console('feature2')
+console('')
