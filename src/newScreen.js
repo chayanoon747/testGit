@@ -2,7 +2,7 @@ import { View } from "react-native"
 
 export const newScreen = ()=>{
     const feature = 0
-
+    const featureAdd = 0
 
     return(
         <View style={{flex:1}}>
